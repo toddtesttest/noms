@@ -30,4 +30,32 @@ class OtherFudge
     puts "fudge"
     puts "fudge"
   end
+
+  def samesies
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+    puts "fudge"
+  end
 end
