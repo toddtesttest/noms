@@ -13,6 +13,14 @@ engines:
     enabled: true
   rubocop:
     enabled: true
+  phan:
+    enabled: true
+    config:
+      file_extensions: "php"
+  phpcodesniffer:
+    enabled: true
+  phpmd:
+    enabled: true
 ratings:
   paths:
   - "**.js"
